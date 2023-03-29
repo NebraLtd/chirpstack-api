@@ -3,7 +3,9 @@ from setuptools import find_packages, setup
 
 REQUIREMENTS = [
     'grpcio',
-    'google-api-core'
+    'google-api-core',
+    'betterproto==2.0.0b5',
+    'grpclib==0.4.3'
 ]
 
 

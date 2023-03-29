@@ -1,5 +1,7 @@
 # ChirpStack API
 
+This is a fork of [brocaar/chirpstack-api](https://github.com/brocaar/chirpstack-api) chirpstack api that uses [betterproto](danielgtaylor/python-betterproto) instead of grpcio for python client code generation.
+
 ![Tests](https://github.com/brocaar/chirpstack-api/actions/workflows/main.yml/badge.svg?branch=master)
 
 This repository contains the [Protobuf](https://developers.google.com/protocol-buffers/)
